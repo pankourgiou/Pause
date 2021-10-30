@@ -3,7 +3,7 @@ import time
 while True:
     try:
         time.sleep(1)  # do something here
-        print (".."),
+        print ("¿¿"),
 
     except KeyboardInterrupt:
         print ("\nPausing...  (Hit ENTER to continue, type quit to exit.)")
